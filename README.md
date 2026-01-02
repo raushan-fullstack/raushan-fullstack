@@ -21,20 +21,92 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack & Tools
 
-| Category                   | Technologies                                                                                                                                                                                                                                                                                             |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**              | <img src="https://skillicons.dev/icons?i=js" width="24"/> <img src="https://skillicons.dev/icons?i=ts" width="24"/> <img src="https://skillicons.dev/icons?i=cpp" width="24"/> <img src="https://skillicons.dev/icons?i=java" width="24"/> <img src="https://skillicons.dev/icons?i=python" width="24"/> |
-| **Frontend**               | <img src="https://skillicons.dev/icons?i=react" width="24"/> <img src="https://skillicons.dev/icons?i=nextjs" width="24"/> <img src="https://skillicons.dev/icons?i=tailwind" width="24"/> <img src="https://skillicons.dev/icons?i=webpack" width="24"/>                                                |
-| **Backend**                | <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> <img src="https://skillicons.dev/icons?i=express" width="24"/>                                                                                                                                                                             |
-| **Databases**              | <img src="https://skillicons.dev/icons?i=mysql" width="24"/> <img src="https://skillicons.dev/icons?i=mongodb" width="24"/> <img src="https://skillicons.dev/icons?i=redis" width="24"/>                                                                                                                 |
-| **DevOps & Cloud**         | <img src="https://skillicons.dev/icons?i=docker" width="24"/> <img src="https://skillicons.dev/icons?i=jenkins" width="24"/> <img src="https://skillicons.dev/icons?i=githubactions" width="24"/> <img src="https://skillicons.dev/icons?i=aws" width="24"/>                                             |
-| **Messaging & Monitoring** | <img src="https://skillicons.dev/icons?i=kafka" width="24"/> <img src="https://skillicons.dev/icons?i=grafana" width="24"/> <img src="https://skillicons.dev/icons?i=prometheus" width="24"/>                                                                                                            |
-| **Tools**                  | <img src="https://skillicons.dev/icons?i=git" width="24"/> <img src="https://skillicons.dev/icons?i=github" width="24"/> <img src="https://skillicons.dev/icons?i=vscode" width="24"/> <img src="https://skillicons.dev/icons?i=postman" width="24"/>                                                    |
-| **Others**                 | <img src="https://skillicons.dev/icons?i=linux" width="24"/> <img src="https://skillicons.dev/icons?i=pnpm" width="24"/> <img src="https://skillicons.dev/icons?i=arduino" width="24"/>                                                                                                                  |
+<h2>🛠️ Tech Stack & Tools</h2>
 
----
+<table width="100%">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
+
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" height="28"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="28"/>
+      <img src="https://skillicons.dev/icons?i=php" height="28"/>
+      <img src="https://skillicons.dev/icons?i=python" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" height="28"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="28"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="28"/>
+      <img src="https://skillicons.dev/icons?i=webpack" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="28"/>
+      <img src="https://skillicons.dev/icons?i=express" height="28"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="28"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="28"/>
+      <img src="https://skillicons.dev/icons?i=redis" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="28"/>
+      <img src="https://skillicons.dev/icons?i=jenkins" height="28"/>
+      <img src="https://skillicons.dev/icons?i=githubactions" height="28"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Messaging & Monitoring</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kafka" height="28"/>
+      <img src="https://skillicons.dev/icons?i=grafana" height="28"/>
+      <img src="https://skillicons.dev/icons?i=prometheus" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="28"/>
+      <img src="https://skillicons.dev/icons?i=github" height="28"/>
+      <img src="https://skillicons.dev/icons?i=vscode" height="28"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="28"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Others</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" height="28"/>
+      <img src="https://skillicons.dev/icons?i=pnpm" height="28"/>
+      <img src="https://skillicons.dev/icons?i=arduino" height="28"/>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Currently Working On
 
@@ -48,18 +120,25 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushan-fullstack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=raushan-fullstack&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raushan-fullstack&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=raushan-fullstack&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-fullstack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-fullstack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -77,6 +156,26 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 
 ---
 
+<h2 align="center">🤝 Connect With Me</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <a href="https://www.linkedin.com/in/raushantiwari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://twitter.com/raushantiwari_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+  <a href="https://stackoverflow.com/users/2033504/raushan-tiwari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="45" />
+  </a>
+  <a href="https://instagram.com/raushantiwari_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="mailto:raushan.fullstack@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 </p>
