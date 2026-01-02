@@ -21,18 +21,18 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Technologies
 
-| Category                   | Technologies                              |
-| -------------------------- | ----------------------------------------- |
-| **Languages**              | JavaScript, TypeScript, PHP, Python       |
-| **Frontend**               | React, Next.js, Tailwind CSS, Webpack     |
-| **Backend**                | Node.js, Express.js, REST APIs            |
-| **Databases**              | MySQL, MongoDB, Redis                     |
-| **DevOps & Cloud**         | Docker, Jenkins, GitHub Actions, AWS      |
-| **Messaging & Monitoring** | Kafka, Grafana, Prometheus                |
-| **Tools**                  | Git, GitHub, VS Code, Postman             |
-| **Others**                 | Linux, pnpm, Arduino                      |
+| Category                   | Technologies                                                                                                                                                                                                                                                                                             |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | <img src="https://skillicons.dev/icons?i=js" width="24"/> <img src="https://skillicons.dev/icons?i=ts" width="24"/> <img src="https://skillicons.dev/icons?i=cpp" width="24"/> <img src="https://skillicons.dev/icons?i=java" width="24"/> <img src="https://skillicons.dev/icons?i=python" width="24"/> |
+| **Frontend**               | <img src="https://skillicons.dev/icons?i=react" width="24"/> <img src="https://skillicons.dev/icons?i=nextjs" width="24"/> <img src="https://skillicons.dev/icons?i=tailwind" width="24"/> <img src="https://skillicons.dev/icons?i=webpack" width="24"/>                                                |
+| **Backend**                | <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> <img src="https://skillicons.dev/icons?i=express" width="24"/>                                                                                                                                                                             |
+| **Databases**              | <img src="https://skillicons.dev/icons?i=mysql" width="24"/> <img src="https://skillicons.dev/icons?i=mongodb" width="24"/> <img src="https://skillicons.dev/icons?i=redis" width="24"/>                                                                                                                 |
+| **DevOps & Cloud**         | <img src="https://skillicons.dev/icons?i=docker" width="24"/> <img src="https://skillicons.dev/icons?i=jenkins" width="24"/> <img src="https://skillicons.dev/icons?i=githubactions" width="24"/> <img src="https://skillicons.dev/icons?i=aws" width="24"/>                                             |
+| **Messaging & Monitoring** | <img src="https://skillicons.dev/icons?i=kafka" width="24"/> <img src="https://skillicons.dev/icons?i=grafana" width="24"/> <img src="https://skillicons.dev/icons?i=prometheus" width="24"/>                                                                                                            |
+| **Tools**                  | <img src="https://skillicons.dev/icons?i=git" width="24"/> <img src="https://skillicons.dev/icons?i=github" width="24"/> <img src="https://skillicons.dev/icons?i=vscode" width="24"/> <img src="https://skillicons.dev/icons?i=postman" width="24"/>                                                    |
+| **Others**                 | <img src="https://skillicons.dev/icons?i=linux" width="24"/> <img src="https://skillicons.dev/icons?i=pnpm" width="24"/> <img src="https://skillicons.dev/icons?i=arduino" width="24"/>                                                                                                                  |
 
 ---
 
