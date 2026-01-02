@@ -156,12 +156,9 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 - 🚀 Enhancing my **Portfolio Website**
 - 🐳 Docker & CI/CD pipelines
-- 🧪 Testing with **RTL & Cypress**
 - ☁️ Cloud & DevOps fundamentals
 
 ---
-
-## 📊 GitHub Stats
 
 <!--Github Profile Stats--->
 
