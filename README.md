@@ -1,7 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Raushan%20Tiwari&fontSize=40&fontAlignY=35&animation=twinkling" />
-</p>
+<img src="Assests/header.png">
+
+<!--Welcome Prompt --->
+<div align="center">
 
 <h3 align="center">Code. Build. Ship. 🚀</h3>
 
@@ -11,18 +11,55 @@
 
 I’m **Raushan Tiwari**, a **Full-Stack Developer** passionate about building scalable, user-centric web applications and exploring modern DevOps & cloud technologies.
 
-- 💻 MERN Stack Developer  
-- 🚀 Open-source enthusiast  
-- 🌱 Always learning & improving  
-- 📍 India 🇮🇳  
+- 💻 MERN Stack Developer
+- 🚀 Open-source enthusiast
+- 🌱 Always learning & improving
+- 📍 India 🇮🇳
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,docker,linux" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="40"/><br/>Webpack</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
+
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>REST API</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br/>Kafka</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br/>Jenkins</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br/>GitHub Actions</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="40"/><br/>pnpm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br/>Arduino</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux</td>
+  </tr>
+</table>
 
 ---
 
