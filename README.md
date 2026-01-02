@@ -199,7 +199,7 @@ src="https://img.shields.io/github/followers/raushantiwari?logo=github&style=for
 
 <div>
     <a href="https://github.com/raushantiwari">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushantiwari&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Atharva's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushantiwari&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Raushan\'s%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
     </a>
 </div>
 
