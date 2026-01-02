@@ -184,6 +184,25 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
   />
 </p>
 
+<!----Profile Views--->
+         
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=raushantiwari&style=for-the-badge&color=00bfbf" alt=""/>
+</div>
+<p align="center">
+  <a href="https://github.com/raushantiwari?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/raushantiwari?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
+  <a href="https://github.com/raushantiwari?tab=followers"><img
+src="https://img.shields.io/github/followers/raushantiwari?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
+
+<div>
+    <a href="https://github.com/raushantiwari">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushantiwari&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Atharva's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+    </a>
+</div>
+
 ## 🌐 Connect With Me
 
 <p align="center">
